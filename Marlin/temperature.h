@@ -190,4 +190,3 @@ void setExtruderAutoFanState(int pin, bool state);
 void checkExtruderAutoFans();
 
 #endif
-
